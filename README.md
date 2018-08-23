@@ -15,3 +15,6 @@ The data science repository has the simple data science projects that helps to b
 ## Projects
 
   - [Iris Dataset](https://github.com/Aniket84/-Data-Science-and-Machine-Learning/blob/master/iris/Iris%20Data%20Analysis.ipynb)
+  - [Loan Prediction] (https://github.com/Aniket84/-Data-Science-and-Machine-Learning/tree/master/Loan%20Prediction%20Dataset)
+  - [Cat or Not](https://github.com/Aniket84/-Data-Science-and-Machine-Learning/tree/master/cat%20or%20not)
+  - [Cat or Not- Deep Neural Network]
